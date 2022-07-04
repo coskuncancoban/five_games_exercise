@@ -79,3 +79,5 @@ while True:
         wrong(question, a="O", b="/", c="|", d="\\", e="/")
     elif wrong_answer == 6:
         wrong(question, a="O", b="/", c="|", d="\\", e="/", f="\\")
+        print(f"\nThe word was '{word}',Game Over...")
+        break
