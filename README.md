@@ -12,5 +12,5 @@
 
 >Hangman
 
-In these games; used basic if - else statements, functions, while loops, inputs, 'random' and 'sleep' modules, string manipulations, in generally basic coding experiences.
+In these games; used basic if - else statements, functions, while loops, inputs, 'random' and 'time' modules, string manipulations, in generally basic coding experiences.
 They just made for an exercise.
